@@ -61,5 +61,8 @@ git clone https://github.com/Tanvir-Mahamood/QueryHub.git
 - Enhance search functionality with advanced filters
 - Build a notification system for user interaction
 
+## 📄 License
+This project is open source and available under the [MIT License](LICENSE).
+
 ## Contact:
 For any inquiries or support, please contact `deltatanvir2002@gmail.com`.
